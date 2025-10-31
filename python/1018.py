@@ -1,0 +1,5 @@
+duracao=int(input())
+hora=int(duracao//3600)
+minuto=int((duracao/60)%60)
+segundo=int(duracao - (hora*3600) - (minuto*60))
+print(f"{hora}:{minuto}:{segundo}")
