@@ -1,5 +1,0 @@
-num1,num2,num3=input().split()
-num1,num2,num3=int(num1),int(num2),int(num3)
-maior_ab=((num1 + num2+abs(num1-num2))/2)
-maior_ab_c=((maior_ab + num3+abs(maior_ab-num3))/2)
-print(f"{int(maior_ab_c)} eh o maior")
