@@ -1,0 +1,13 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    string a; cin >> a;
+    double b,c; cin >> b >> c;
+
+    double total= b + (c * 15 / 100);
+
+    cout << "TOTAL = R$ " << fixed << setprecision(2) << total << "\n";
+
+}
