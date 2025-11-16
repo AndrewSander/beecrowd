@@ -7,6 +7,7 @@ Este repositório tem como objetivo salvar as minhas resoluções dos exercício
 ## 🚀 Tecnologias 
 
 ![python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## Autor
 
